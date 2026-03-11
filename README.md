@@ -3,10 +3,8 @@ re short and memorable.
 
 
 #include <stdio.h>
-
 int main() {
     int a[100], n, i, j, temp;
-
     printf("Enter number of elements: ");
     scanf("%d", &n);
 
